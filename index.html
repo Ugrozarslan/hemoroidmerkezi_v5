@@ -603,6 +603,24 @@ details p{
 .blog-card{display:block;background:#fff;border:1px solid #E6EAF0;border-radius:18px;padding:18px;color:#0A1F44;font-weight:900;box-shadow:0 10px 24px rgba(10,31,68,.05)}
 .blog-card small{display:block;color:#667085;font-weight:500;line-height:1.55;margin-top:8px}
 @media(max-width:850px){.article-box{padding:24px}.modern-card h2{text-align:center}}
+
+/* V5.1 Bilgi Merkezi */
+.info-hub-hero{background:linear-gradient(135deg,#0A1F44,#143A6F);color:#fff;padding:70px 24px}
+.info-hub-hero .wrap{max-width:1120px;margin:auto}
+.info-hub-hero h1{font-size:clamp(42px,6vw,68px);line-height:1;margin:0 0 16px;letter-spacing:-1.8px}
+.info-hub-hero p{max-width:760px;color:rgba(255,255,255,.82);font-size:18px;line-height:1.75}
+.category-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px}
+.category-card{background:#fff;border:1px solid #E6EAF0;border-radius:22px;padding:24px;color:#0A1F44;box-shadow:0 12px 32px rgba(10,31,68,.06);display:block;transition:.25s}
+.category-card:hover{transform:translateY(-4px)}
+.category-card h3{margin:0 0 10px;font-size:21px;color:#0A1F44}
+.category-card p{margin:0;color:#667085;line-height:1.65;font-size:14px}
+.article-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
+.article-link{background:#f8fafc;border:1px solid #E6EAF0;border-radius:16px;padding:16px;display:block;color:#0A1F44;font-weight:900}
+.article-link small{display:block;margin-top:7px;color:#667085;font-weight:500;line-height:1.5}
+.breadcrumb{max-width:1120px;margin:18px auto 0;padding:0 24px;font-size:13px;color:#667085}
+.breadcrumb a{color:#0A1F44;font-weight:800}
+.doctor-note{background:#fff7e8;border:1px solid #f0dfbd;border-radius:20px;padding:22px;margin-top:24px;color:#0A1F44}
+
 </style>
 </head>
 
@@ -622,6 +640,7 @@ details p{
     <a href="#belirtiler">Belirtiler</a>
     <a href="#doktor">Doktor</a>
     <a href="#tedavi">Tedavi</a>
+    <a href="bilgi-merkezi.html">Bilgi Merkezi</a>
     <a href="#sss">SSS</a>
     <a href="#iletisim">İletişim</a>
   </div>
@@ -822,6 +841,20 @@ details p{
 </section>
 
 <section class="section soft" id="blog"><div class="wrap"><h2>Bilgilendirici Yazılar</h2><p class="section-lead">Hemoroid, anal fissür, anal fistül, kıl dönmesi ve egzozom destekli yaklaşımlar hakkında sık aranan konular.</p><div class="blog-grid"><a class="blog-card" href="hemoroid-patlarsa-ne-olur.html">Hemoroid Patlarsa Ne Olur?<small>Kanama, ağrı ve ne zaman doktora gidilmeli?</small></a><a class="blog-card" href="makatta-kanama-neden-olur.html">Makatta Kanama Neden Olur?<small>Hemoroid dışında nedenler de olabilir.</small></a><a class="blog-card" href="hemoroid-hangi-bolum-bakar.html">Hemoroide Hangi Bölüm Bakar?<small>Genel cerrahi ve proktoloji.</small></a><a class="blog-card" href="dis-hemoroid-nasil-gecer.html">Dış Hemoroid Nasıl Geçer?<small>Şişlik, ağrı ve değerlendirme.</small></a><a class="blog-card" href="hemoroid-kremi-ise-yarar-mi.html">Hemoroid Kremi İşe Yarar mı?<small>Krem, fitil ve geçici rahatlama.</small></a><a class="blog-card" href="anal-fissur-belirtileri.html">Anal Fissür Belirtileri<small>Makat çatlağı ağrı ve yanma.</small></a><a class="blog-card" href="anal-fistul-belirtileri.html">Anal Fistül Belirtileri<small>Akıntı, apse ve hassasiyet.</small></a><a class="blog-card" href="kil-donmesi-belirtileri.html">Kıl Dönmesi Belirtileri<small>Kuyruk sokumu ağrı ve akıntı.</small></a><a class="blog-card" href="egzozom-nedir.html">Egzozom Nedir?<small>Rejeneratif tıpta güncel yaklaşım.</small></a><a class="blog-card" href="egzozom-hemoroid.html">Egzozom ve Hemoroid<small>Uygun hastalarda destekleyici yaklaşım.</small></a><a class="blog-card" href="egzozom-anal-fissur.html">Egzozom ve Anal Fissür<small>Doku iyileşme süreci hakkında bilgi.</small></a></div></div></section>
+
+<section class="section soft" id="bilgi-merkezi-on">
+  <div class="wrap">
+    <h2>Bilgi Merkezi</h2>
+    <p class="section-lead">Hemoroid, anal fissür, anal fistül, kıl dönmesi, kondilom ve egzozom destekli yaklaşımlar hakkında bilgilendirici içerikler.</p>
+    <div class="category-grid">
+      <a class="category-card" href="bilgi-merkezi.html#hemoroid"><h3>Hemoroid</h3><p>Belirtiler, nedenler, evreler, kanama ve tedavi yaklaşımları.</p></a>
+      <a class="category-card" href="bilgi-merkezi.html#anal-fissur"><h3>Anal Fissür</h3><p>Makat çatlağı, ağrı, yanma, kanama ve egzozom destekli yaklaşımlar.</p></a>
+      <a class="category-card" href="bilgi-merkezi.html#egzozom"><h3>Egzozom</h3><p>Rejeneratif tıp, doku iyileşme süreci ve uygun hasta değerlendirmesi.</p></a>
+    </div>
+    <div style="text-align:center;margin-top:24px;"><a class="btn btn-call" href="bilgi-merkezi.html">Tüm Bilgi Merkezini Gör</a></div>
+  </div>
+</section>
+
 <section class="section soft" id="sss">
   <div class="wrap">
     <h2>Sık Sorulan Sorular</h2>
