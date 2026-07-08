@@ -1,8 +1,14 @@
 # Hemoroid Merkezi V5
 
-## V5.1
-- Bilgi Merkezi eklendi
-- Ana sayfaya Bilgi Merkezi bölümü eklendi
+## V5.2
+- 5 premium hemoroid SEO sayfası eklendi
+- Bilgi Merkezi hemoroid kategorisi güçlendirildi
 - Sitemap güncellendi
 - Netlify redirects güncellendi
-- SEO kategori yapısı başlatıldı
+
+Yeni sayfalar:
+- hemoroid-nedir.html
+- hemoroid-belirtileri.html
+- hemoroid-neden-olur.html
+- ic-hemoroid.html
+- hemoroid-evreleri.html
