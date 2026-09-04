@@ -1,0 +1,116 @@
+# SEO MASTER İÇERİK HARİTASI
+
+## Hemoroid / Basur
+- Hemoroid Nedir? — `hemoroid-nedir.html`
+- Hemoroid Belirtileri — `hemoroid-belirtileri.html`
+- Hemoroid Neden Olur? — `hemoroid-neden-olur.html`
+- Hemoroid Evreleri — `hemoroid-evreleri.html`
+- Hemoroid Kanaması — `hemoroid-kanamasi.html`
+- Hemoroid Ağrısı — `hemoroid-agrisi.html`
+- Tromboze Hemoroid — `tromboze-hemoroid.html`
+- İç Hemoroid — `ic-hemoroid.html`
+- Dış Hemoroid — `dis-hemoroid.html`
+- Dış Hemoroid Nasıl Geçer? — `dis-hemoroid-nasil-gecer.html`
+- Basur Nedir? — `basur-nedir.html`
+- Basur Belirtileri — `basur-belirtileri.html`
+- Basur Nasıl Geçer? — `basur-nasil-gecer.html`
+- Basur Memesi — `basur-memesi.html`
+- Basur Kanaması — `basur-kanamasi.html`
+- Hemoroid Kendiliğinden Geçer mi? — `hemoroid-kendiliginden-gecer-mi.html`
+- Hemoroid Kremi İşe Yarar mı? — `hemoroid-kremi-ise-yarar-mi.html`
+- Hemoroid Patlarsa Ne Olur? — `hemoroid-patlarsa-ne-olur.html`
+- Hemoroid ve Kabızlık — `hemoroid-ve-kabizlik.html`
+- Hemoroidde Beslenme — `hemoroidde-beslenme.html`
+- Hemoroid Muayenesi Nasıl Yapılır? — `hemoroid-muayenesi.html`
+- Hemoroide Hangi Bölüm Bakar? — `hemoroid-hangi-bolum-bakar.html`
+- Ameliyatsız Hemoroid Tedavisi — `ameliyatsiz-hemoroid-tedavisi.html`
+- Pendik Hemoroid Tedavisi — `pendik-hemoroid-tedavisi.html`
+- İstanbul Anadolu Yakası Hemoroid Tedavisi — `istanbul-anadolu-yakasi-hemoroid-tedavisi.html`
+
+## Makat Çatlağı / Anal Fissür
+- Makat Çatlağı Nedir? — `makat-catlagi-nedir.html`
+- Makat Çatlağı Belirtileri — `makat-catlagi-belirtileri.html`
+- Makat Çatlağı Neden Olur? — `makat-catlagi-neden-olur.html`
+- Makat Çatlağı Tedavisi — `makat-catlagi-tedavisi.html`
+- Makat Çatlağı Nasıl Geçer? — `makat-catlagi-nasil-gecer.html`
+- Makat Çatlağı Kendiliğinden Geçer mi? — `makat-catlagi-kendiliginden-gecer-mi.html`
+- Makat Çatlağı Kanama Yapar mı? — `makat-catlagi-kanama-yapar-mi.html`
+- Makat Çatlağı Ağrısı — `makat-catlagi-agrisi.html`
+- Tuvalette Cam Kesiği Gibi Ağrı — `tuvalette-cam-kesigi-gibi-agri.html`
+- Akut Anal Fissür — `akut-anal-fissur.html`
+- Kronik Anal Fissür — `kronik-anal-fissur.html`
+- Anal Fissür Tedavisi — `anal-fissur-tedavisi.html`
+- Anal Fissür ve Hemoroid Farkı — `anal-fissur-hemoroid-farki.html`
+- Anal Fissüre Hangi Bölüm Bakar? — `anal-fissur-hangi-bolum-bakar.html`
+- Makat Çatlağı Evde Tedavi Edilir mi? — `makat-catlagi-evde-tedavi.html`
+- Makat Çatlağı Kremi — `makat-catlagi-kremi.html`
+- Makat Çatlağında Beslenme — `makat-catlaginda-beslenme.html`
+- Anal Fissür Tekrarlar mı? — `anal-fissur-tekrarlar-mi.html`
+- Anal Fissür Ameliyatı — `anal-fissur-ameliyati.html`
+- Ameliyatsız Anal Fissür Tedavisi — `ameliyatsiz-anal-fissur-tedavisi.html`
+- Botoksla Anal Fissür Tedavisi — `botoksla-anal-fissur-tedavisi.html`
+- Kadınlarda Makat Çatlağı — `kadinlarda-makat-catlagi.html`
+- Gebelikte Makat Çatlağı — `gebelikte-makat-catlagi.html`
+- Doğum Sonrası Anal Fissür — `dogum-sonrasi-anal-fissur.html`
+- Pendik Anal Fissür Tedavisi — `pendik-anal-fissur-tedavisi.html`
+- İstanbul Anadolu Yakası Anal Fissür Tedavisi — `istanbul-anadolu-yakasi-anal-fissur-tedavisi.html`
+
+## Anal Fistül / Anal Apse
+- Anal Fistül Nedir? — `anal-fistul-nedir.html`
+- Anal Fistül Belirtileri — `anal-fistul-belirtileri.html`
+- Anal Fistül Neden Olur? — `anal-fistul-neden-olur.html`
+- Anal Fistül Tedavisi — `anal-fistul-tedavisi.html`
+- Makatta Delik Neden Olur? — `makatta-delik.html`
+- Makattan İltihap Gelmesi — `makattan-iltihap-gelmesi.html`
+- Makatta Sürekli Akıntı — `makatta-surekli-akinti.html`
+- Anal Apse — `anal-apse.html`
+- Anal Apse Belirtileri — `anal-apse-belirtileri.html`
+- Makatta Apse Neden Olur? — `makatta-apse-neden-olur.html`
+- Anal Apse Patlarsa Ne Olur? — `anal-apse-patlarsa.html`
+- Anal Fistül Kendiliğinden Geçer mi? — `anal-fistul-kendiliginden-gecer-mi.html`
+- Anal Fistül Ameliyatı — `anal-fistul-ameliyati.html`
+- Anal Fistüle Hangi Bölüm Bakar? — `anal-fistul-hangi-bolum-bakar.html`
+- Anal Fistül ve Hemoroid Farkı — `anal-fistul-hemoroid-farki.html`
+- Anal Fistül ve Anal Fissür Farkı — `anal-fistul-fissur-farki.html`
+- Pendik Anal Fistül Tedavisi — `pendik-anal-fistul-tedavisi.html`
+- İstanbul Anadolu Yakası Anal Fistül Tedavisi — `istanbul-anadolu-yakasi-anal-fistul-tedavisi.html`
+
+## Kıl Dönmesi / Pilonidal Sinüs
+- Kıl Dönmesi Nedir? — `kil-donmesi-nedir.html`
+- Kıl Dönmesi Belirtileri — `kil-donmesi-belirtileri.html`
+- Kıl Dönmesi Neden Olur? — `kil-donmesi-neden-olur.html`
+- Kıl Dönmesi Tedavisi — `kil-donmesi-tedavisi.html`
+- Ameliyatsız Kıl Dönmesi Tedavisi — `ameliyatsiz-kil-donmesi-tedavisi.html`
+- Kıl Dönmesi Apsesi — `kil-donmesi-apse.html`
+- Kıl Dönmesi Akıntısı — `kil-donmesi-akintisi.html`
+- Kuyruk Sokumunda Şişlik — `kuyruk-sokumunda-sislik.html`
+- Kuyruk Sokumunda Ağrı — `kuyruk-sokumunda-agri.html`
+- Kuyruk Sokumunda Akıntı — `kuyruk-sokumu-akinti.html`
+- Kıl Dönmesine Hangi Bölüm Bakar? — `kil-donmesi-hangi-bolum-bakar.html`
+- Kıl Dönmesi Tekrarlar mı? — `kil-donmesi-tekrarlar-mi.html`
+- Kıl Dönmesi Ameliyatı Sonrası — `kil-donmesi-ameliyati-sonrasi.html`
+- Kadınlarda Kıl Dönmesi — `kadinlarda-kil-donmesi.html`
+- Erkeklerde Kıl Dönmesi — `erkeklerde-kil-donmesi.html`
+- Kıl Dönmesi Nasıl Anlaşılır? — `kil-donmesi-nasil-anlasilir.html`
+- Kıl Dönmesi Kendiliğinden Geçer mi? — `kil-donmesi-kendiliginden-gecer-mi.html`
+- Kıl Dönmesi İltihabı — `kil-donmesi-iltihabi.html`
+- Kıl Dönmesi Patlarsa Ne Olur? — `kil-donmesi-patlarsa-ne-olur.html`
+- Kıl Dönmesi Evde Tedavi Edilir mi? — `kil-donmesi-evde-tedavi.html`
+- Kıl Dönmesi Fotoğraftan Anlaşılır mı? — `kil-donmesi-fotograftan-anlasilir-mi.html`
+- Kıl Dönmesi ile Sivilce / Apse Farkı — `kil-donmesi-sivilce-farki.html`
+- Pendik Kıl Dönmesi Tedavisi — `pendik-kil-donmesi-tedavisi.html`
+- İstanbul Anadolu Yakası Kıl Dönmesi Tedavisi — `istanbul-anadolu-yakasi-kil-donmesi-tedavisi.html`
+
+## Belirti Rehberi
+- Makatta Kanama Neden Olur? — `makatta-kanama.html`
+- Makatta Ağrı Neden Olur? — `makatta-agri.html`
+- Makatta Şişlik Neden Olur? — `makatta-sislik.html`
+- Makatta Kaşıntı Neden Olur? — `makatta-kasinti.html`
+- Makatta Meme Neden Olur? — `makatta-meme.html`
+- Makatta Yanma Neden Olur? — `makatta-yanma.html`
+- Makattan Sıvı Gelmesi — `makattan-sivi-gelmesi.html`
+- Makatta Zonklama — `makatta-zonklama.html`
+- Otururken Makat Ağrısı — `otururken-makat-agrisi.html`
+- Tuvalette Kan Gelmesi — `tuvalette-kan-gelmesi.html`
+- Tuvaletten Sonra Makat Ağrısı — `tuvaletten-sonra-makat-agrisi.html`
+- Makatta Kötü Koku ve Akıntı — `makatta-kotu-koku.html`
